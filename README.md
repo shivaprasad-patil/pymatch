@@ -15,7 +15,8 @@ This package was used to support [this research project](https://dl.acm.org/cita
 Install through pip!
 
 ```bash
-$ pip install pymatch
+#Use the command from the folder where the .zip file is located or specify the path  where the .zip file is located.
+$ pip install pymatch-master.zip
 ```
 
 # 
