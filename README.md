@@ -1,5 +1,5 @@
 
-`pymatch`
+`Updated version of pymatch`
 =====
 
 Matching techniques for observational studies. Inspired by and adapted from Jasjeet Singh Sekhon's [Matching](https://cran.r-project.org/web/packages/Matching/Matching.pdf) package in R. I wrote an adaptation in Python that is better suited for my work at Mozilla which incorporates:
